@@ -1,0 +1,16 @@
+{
+    "name": "my-project",
+    "private": true,
+    "version": "0.0.0",
+    "scripts": {
+        "dev": "vite serve ./src",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "devDependencies": {
+        "prettier": "^3.2.5"
+    },
+    "dependencies": {
+        "vite": "^5.0.12"
+    }
+}
