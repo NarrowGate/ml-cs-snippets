@@ -3,10 +3,11 @@
     "private": true,
     "version": "0.0.0",
     "scripts": {
-        "dev": "vite serve ./src",
+        "dev": "vite serve ./src/css-snippets/long-text-ellipsis",
         "build": "vite build",
         "preview": "vite preview"
     },
+    "sample": "vite serve ./src/css-snippets/long-text-ellipsis",
     "devDependencies": {
         "prettier": "^3.2.5"
     },
